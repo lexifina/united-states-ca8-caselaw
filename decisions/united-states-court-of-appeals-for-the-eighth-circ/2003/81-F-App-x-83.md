@@ -1,0 +1,37 @@
+---
+court: "United States Court of Appeals for the Eighth Circuit"
+docket: "02-2534"
+decided: "2003-11-18"
+citations: ["81 F. App'x 83"]
+parties: ["Bill C. STOLING, Appellant, v. ARKADELPHIA HUMAN DEVELOPMENT CENTER, Appellee."]
+source_url: "https://static.case.law/f-appx/81/cases/0083-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 279525
+cites_cases: ["119 S.Ct. 1028", "143 L.Ed.2d 38", "151 F.3d 793", "167 F.3d 1170", "200 F.3d 1170", "28 U.S.C. § 1915", "32 F.3d 386", "42 U.S.C. § 1983", "449 U.S. 250", "455 U.S. 385", "525 U.S. 1139", "58 F.3d 1323", "803 F.2d 950", "960 F.2d 750"]
+---
+
+# Stoling v. Arkadelphia Human Development Center
+
+## Head matter
+
+Bill C. STOLING, Appellant, v. ARKADELPHIA HUMAN DEVELOPMENT CENTER, Appellee.
+No. 02-2534.
+United States Court of Appeals, Eighth Circuit.
+Submitted Nov. 7, 2003.
+Decided Nov. 18, 2003.
+Bill C. Stoling, Arkadelphia, AR, pro se.
+Shannon Tuckett, Texarkana, AR, for Plaintiff-Appellant.
+Before BYE, BOWMAN, and MELLOY, Circuit Judges.
+
+## Majority (PER CURIAM.)
+
+PER CURIAM.
+Bill C. Stoling appeals the 28 U.S.C. § 1915(e)(2)(B) preservice dismissal of his Title VII complaint. Having carefully reviewed the record, see Moore v. Sims, 200 F.3d 1170, 1171 (8th Cir.2000) (per curiam) (standard of review), we reverse and remand.
+In March 2002, Stoling sought leave to file in forma pauperis his pro se Title VII complaint against Arkadelphia Human Development Center (Arkadelphia), wherein he raised claims of race and sex discrimination, as well as retaliation, related to Arkadelphia’s suspending and then terminating him. The Equal Employment Opportunity Commission (EEOC) charge Stoling attached to his complaint showed April 26, 2001, as the latest date the discrimination took place, and it also reflected a filing date of February 1, 2002. The February 5, 2002 EEOC right-to-sue notice stated his charge would not be investigated as it had not been timely filed. In his complaint and charge, however, Stoling contended that his grievance officer and Arkadelphia “management” had told him he “could not take any outside action” until after the grievance process was over, and that the process took nine months.
+The District Court ordered Stoling’s complaint provisionally filed, and directed him to complete a questionnaire about why his complaint should not be dismissed based on the untimeliness of his EEOC charge. Stoling responded that he had been unaware of the 180-day filing requirement as his assigned grievance officer had not told him of it, and he again pointed to management’s statements to him about taking outside action before a final grievance decision, noting the grievance process had dragged out for nine months. He added that management had told him he could hire an attorney, but he could not afford to do so.
+The District Court then summarily dismissed Stoling’s complaint as frivolous. On appeal Stoling argues that he has satisfied the requirements for equitable estoppel, given defendant’s statements and his inability to afford counsel.
+Under Title VII an administrative charge must be filed within 180 days of the alleged discriminatory conduct. See 42 U.S.C. § 2000e-5(e)(1) (2000); Shempert v. Harwick Chem. Corp., 151 F.3d 793, 796 n. 3 (8th Cir.1998) (180-day filing limit in Arkansas), cert. denied, 525 U.S. 1139, 119 S.Ct. 1028, 143 L.Ed.2d 38 (1999). Thus, Stoling should have filed his charge within 180 days of April 26, 2001-the date he was notified of the termination decision. See Del. State Coll. v. Ricks, 449 U.S. 250, 261, 101 S.Ct. 498, 66 L.Ed.2d 431 (1980) (pendency of grievance does not toll running of limitations period); Dring v. McDonnell Douglas Corp., 58 F.3d 1323, 1328 (8th Cir.1995) (Title VII cause of action accrues on date allegedly unlawful act is communicated to plaintiff, i.e, when notice of termination decision is received).
+Filing a timely charge of discrimination with the EEOC is not a jurisdictional prerequisite to initiating a Title VII action in federal court, but it is a requirement-like a statute of limitations-that is subject to waiver, estoppel, and equitable tolling. See Zipes v. Trans World Airlines, Inc., 455 U.S. 385, 393, 102 S.Ct. 1127, 71 L.Ed.2d 234 (1982). Nonetheless, the District Court found Stoling’s complaint time-barred before defendant was ever served. We have approved the sua sponte dismissal of a 42 U.S.C. § 1983 complaint as frivolous under § 1915 when it was apparent that the statute of limitations had run, even though the statute of limitations is an affirmative defense. See Myers v. Vogal, 960 F.2d 750, 751 (8th Cir.1992) (per curiam). Based on the reasoning in Myers, however, the § 1915(e)(2)(B) dismissal here was proper only if the untimeliness of the EEOC charge was apparent, i.e., if the District Court correctly determined that defendant’s alleged actions clearly would not justify the tolling of the filing deadline on equitable grounds. See Shempert, 151 F.3d at 797 (filing of timely EEOC charge is subject to estoppel and equitable tolling); Dring, 58 F.3d at 1329 (equitable estoppel comes into play when defendant takes active steps to prevent plaintiff from suing on time).
+As Stoling admits, equitable tolling does not apply here. See id. at 1328 (equitable tolling is appropriate when plaintiff, despite due diligence, is unable to obtain vital information bearing on existence of claim). Stoling did not allege below that Arkadelphia faded to post notice of employees’ Title VII rights or that he was unaware of such a cause of action; and his grievance officer was not required to inform him of the filing time requirements. See DeBrunner v. Midway Equip. Co., 803 F.2d 950, 952 (8th Cir.1986) (agreeing with Eleventh Circuit that when employee is generally aware of his rights, ignorance of specific legal rights or failure to seek legal advice should not toll 180-day period).
+In contrast, Arkadelphia’s alleged conduct-i.e., telling Stoling he could not take outside action until the grievance process was completed-might warrant the application of equitable estoppel. See Dying, 58 F.3d at 1329-30 & n. 3 (EEOC limitations period will not be modified unless employee’s failure to file timely charge is result of either deliberate design by employer or of actions that employer should unmistakably have understood would cause employee to delay filing; noting Supreme Court opinion finding dismissal of Federal Employer’s Liability Act action improper, based on district court’s failure to consider plaintiffs allegation that employer’s agent misrepresented amount of time plaintiff had to commence lawsuit). Because defendant was never served, timeliness was not raised as an affirmative defense, and the record was not fully developed as to whether Stoling reasonably relied on defendant’s allegedly misleading statements, and whether such statements were deliberately made to prevent Stoling from bringing a timely suit. See Hentosh v. Herman M. Finch Univ. of Health Sciences/The Chicago Med. Sch., 167 F.3d 1170, 1174 (7th Cir.1999) (grant of equitable estoppel should be premised on defendant’s improper conduct as well as plaintiffs actual and reasonable reliance thereon); cf. Miller v. Runyon, 32 F.3d 386, 388, 390 (8th Cir.1994) (reviewing for clear* error factual findings related to equitable tolling where district court held hearing to determine timeliness of administrative complaint).
+Accordingly, we reverse and remand for further proceedings consistent with this opinion.
