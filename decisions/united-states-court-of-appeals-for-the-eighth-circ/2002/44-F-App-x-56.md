@@ -1,0 +1,33 @@
+---
+court: "United States Court of Appeals for the Eighth Circuit"
+docket: "02-1592"
+decided: "2002-08-27"
+citations: ["44 F. App'x 56"]
+parties: ["UNITED STATES of America, Appellee, v. Polo Rico GUERRA, Appellant."]
+source_url: "https://static.case.law/f-appx/44/cases/0056-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 973047
+cites_cases: ["121 S.Ct. 1163", "122 S.Ct. 1088", "122 S.Ct. 1114", "148 L.Ed.2d 1023", "151 L.Ed.2d 1008", "151 L.Ed.2d 987", "223 F.3d 797", "249 F.3d 720", "250 F.3d 1181", "261 F.3d 744", "262 F.3d 704", "281 F.3d 746", "531 U.S. 1181"]
+---
+
+# United States v. Guerra
+
+## Head matter
+
+UNITED STATES of America, Appellee, v. Polo Rico GUERRA, Appellant.
+No. 02-1592.
+United States Court of Appeals, Eighth Circuit.
+Submitted Aug. 21, 2002.
+Filed Aug. 27, 2002.
+Before HANSEN, Chief Judge, FAGG and BYE, Circuit Judges.
+
+## Majority (PER CURIAM.)
+
+PER CURIAM.
+Polo Rico Guerra moved to replace his retained attorney one week before trial on multiple drug distribution and conspiracy charges was scheduled to begin. After a hearing on the motion, Guerra informed the court he would continue with his current attorney. Later that day, Guerra pleaded guilty to conspiracy to distribute methamphetamine in exchange for dismissal of the remaining counts and a limitation on the sentence the Government would seek. Five months later, Guerra moved for appointment of counsel, having exhausted his financial resources. The motion was granted.
+Guerra, through newly appointed counsel, then moved to withdraw the guilty plea. The district court held a hearing on Guerra’s motion, found Guerra’s testimony not creditable, found Guerra had not shown a fair and just reason to withdraw his plea, and denied Guerra’s motion to withdraw. The court then sentenced Guerra to 240 months imprisonment, consistent with the terms of the plea agreement. Guerra now appeals. Guerra raises several complaints about his first attorney and the plea agreement, claiming he did not understand the plea agreement or the colloquy because of difficulties hearing the interpreter and the speed of the proceedings, counsel did not inform the court of these difficulties, counsel brought an interpreter to attorney-client meetings only once, counsel said Guerra would receive twelve years in prison, not twenty, counsel told an intimidating story about how the federal government executed a drug kingpin, and counsel did not move to exclude the prosecutor from the hearing on Guerra’s motion to substitute counsel. Because of these problems, Guerra claims his guilty plea was not knowing and voluntary, the problems show fair and just reasons to withdraw the plea, and counsel was ineffective in advising Guerra to accept a plea bargain. Having carefully reviewed the record and the parties’ submissions, we reject each of Guerra’s claims.
+We find no error with the district court’s conclusion that Guerra’s guilty plea was knowing and voluntary. United States v. Bohena, 223 F.3d 797, 806 (8th Cir.2000) (standard of review), cert, denied, 531 U.S. 1181, 121 S.Ct. 1163, 148 L.Ed.2d 1023 (2001). At the plea hearing, Guerra testified under oath that he understood the proceedings, he was satisfied with his attorney, and he admitted the factual basis for his guilt. Id. Although Guerra complains that he could not hear the interpreter read the agreement to him before the colloquy, he admitted that he did not tell the interpreter he could not hear her. Guerra had the benefit of the same interpreter at the plea hearing and at the hearing for his motion to withdraw the plea. We also reject Guerra’s contentions that his attorney coerced him to plead guilty. The attorney explained the reasons for his recommendation to accept the plea on the record. The district court then informed Guerra that no one was pressuring him to plead guilty and Guerra alone had the right to determine whether or not to proceed to trial. Guerra agreed he understood the district court’s explanation of his right to trial.
+Likewise, we conclude the district court did not abuse its discretion by denying Guerra’s motion to withdraw his guilty plea. United States v. Embrey, 250 F.3d 1181, 1183 (8th Cir.2001). Although we grant Guerra more liberal consideration because he moved to withdraw the guilty plea before sentencing, Guerra has not shown a fair and just reason to withdraw his plea. Id. Guerra’s difficulties understanding the interpreter could have been easily remedied by asking her to repeat items or to speak louder. The district court found Guerra’s complaints about his attorney not creditable. Having considered the proper factors to determine whether Guerra may set aside his guilty plea, we conclude the factors do not support Guerra’s motion to withdraw his plea. Id. (listing factors). Guerra has asserted his innocence of being a leader or supervisor of the conspiracy, but he admitted the factual basis of the drug distribution charge under oath. Guerra sought to withdraw his guilty plea before sentencing, but that motion came six.months after he entered the plea. Because we do not find Guerra has shown a fair and just reason to withdraw his plea, we need not consider whether the government would be prejudiced. United States v. Has No Horses, 261 F.3d 744, 750 (8th Cir.2001), cert, denied, — U.S. -, 122 S.Ct. 1114, 151 L.Ed.2d 1008 (2002).
+Even though we do not normally decide ineffective assistance of counsel claims on direct review, because the record is adequately developed in this case, we conclude Guerra’s claim fails. United States v. Cole, 262 F.3d 704, 710 (8th Cir.2001); see also United States v. Hernandez, 281 F.3d 746, 749 (8th Cir.2002) (holding ineffective assistance of counsel claims may be decided on direct appeal where the district court has developed a record on the ineffectiveness issue). The record includes Guerra’s testimony of his attorney’s failings, the attorney’s testimony explaining his actions, and the district court’s finding that Guerra’s testimony was not creditable. The record also shows the prosecutor’s presence during the motion to substitute counsel hearing did not compromise attorney-client privilege as Guerra claimed. Because Guerra cannot show that counsel’s assistance fell below an objective standard of reasonableness or that but for counsel’s actions, Guerra would not have pleaded guilty, Guerra’s ineffective assistance of counsel claim fails. Wilcox v. Hopkins, 249 F.3d 720, 722 (8th Cir.2001), cert, denied, — U.S. -, 122 S.Ct. 1088, 151 L.Ed.2d 987 (2002).
+Having rejected Guerra’s claims, we affirm his conviction and sentence.
+The Honorable Robert W. Pratt, United States District Judge for the Southern District of Iowa.
