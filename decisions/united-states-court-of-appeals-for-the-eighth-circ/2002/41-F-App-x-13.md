@@ -1,0 +1,28 @@
+---
+court: "United States Court of Appeals for the Eighth Circuit"
+docket: "02-1030"
+decided: "2002-07-09"
+citations: ["41 F. App'x 13"]
+parties: ["In re: Marilyn M. MOSS, also known as Marilyn M. Bryant, also known as Marilyn Margaret Bryant, also known as Marilyn Moss Bryant, also known as M. Margaret Bryant, also known as Marilyn Wall Bryant, also known as Margaret Whitman Bryant, also known as Margaret “Peggy” Whitman, also known as Margaret Whitman “Peggy” Bryant, also known as Margaret Bryant, also known as Marge Bryant, also known as Mari Bryant, also known as Mary Bryant, also known as Anne Bryant, also known as Ann Whitman, also known as P.M. Whitman, also known as Anne Margaret Whitman, also known as Anne M. Whitman Bryant, also known as Anne Margaret Whitman Bryant, also known as Anne Margaret Whitman Bryant Trust, also known as M. Whitman Bryant, also known as M. Margaret Whitman Bryant, also known as Catherine L. Whitman, also known as Bryant Family Trust, also known as Solutions, Inc., also known as Santa Barbara Mortgage Co., Inc., also known as National Supply Corporation, also known as TCI Industries, also known as TCI Investments, also known as T.N. Ayrb Inv. Co., also known as Transpacific Conservancy, Inc., also known as M. Margaret Whitman Bryant Trust Dated 4-18-97, also known as M. Margaret Whitman Bryant Trust Dated 5-18-97, Debtor, Steven C. Block, Plaintiff—Appellee, v. Marilyn M. Moss; Defendant—Appellant, Citizens Bank, of Tulsa, Defendant, Prudential Securities, Inc. Defendant."]
+source_url: "https://static.case.law/f-appx/41/cases/0013-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 929657
+cites_cases: ["277 F.3d 1041"]
+---
+
+# Block v. Moss
+
+## Head matter
+
+In re: Marilyn M. MOSS, also known as Marilyn M. Bryant, also known as Marilyn Margaret Bryant, also known as Marilyn Moss Bryant, also known as M. Margaret Bryant, also known as Marilyn Wall Bryant, also known as Margaret Whitman Bryant, also known as Margaret “Peggy” Whitman, also known as Margaret Whitman “Peggy” Bryant, also known as Margaret Bryant, also known as Marge Bryant, also known as Mari Bryant, also known as Mary Bryant, also known as Anne Bryant, also known as Ann Whitman, also known as P.M. Whitman, also known as Anne Margaret Whitman, also known as Anne M. Whitman Bryant, also known as Anne Margaret Whitman Bryant, also known as Anne Margaret Whitman Bryant Trust, also known as M. Whitman Bryant, also known as M. Margaret Whitman Bryant, also known as Catherine L. Whitman, also known as Bryant Family Trust, also known as Solutions, Inc., also known as Santa Barbara Mortgage Co., Inc., also known as National Supply Corporation, also known as TCI Industries, also known as TCI Investments, also known as T.N. Ayrb Inv. Co., also known as Transpacific Conservancy, Inc., also known as M. Margaret Whitman Bryant Trust Dated 4-18-97, also known as M. Margaret Whitman Bryant Trust Dated 5-18-97, Debtor, Steven C. Block, Plaintiff—Appellee, v. Marilyn M. Moss; Defendant—Appellant, Citizens Bank, of Tulsa, Defendant, Prudential Securities, Inc. Defendant.
+No. 02-1030.
+United States Court of Appeals, Eighth Circuit.
+Submitted July 2, 2002.
+Filed July 9, 2002.
+Before LOKEN, BEAM, and RILEY, Circuit Judges.
+
+## Majority (PER CURIAM.)
+
+PER CURIAM.
+Debtor Marilyn Moss appeals the bankruptcy appellate panel’s affirmance of the bankruptcy court’s order holding the trustee was entitled to the turnover of bank account funds. Reviewing the bankruptcy court’s findings of fact for clear error and its conclusions of law de novo, see In re Zepecki, 277 F.3d 1041, 1045 (8th Cir.2002) (per curiam), we find no error. Accordingly, we affirm. See 8th Cir. R. 47B.
+. The Honorable Jerry W. Venters, United States Bankruptcy Judge for the Western District of Missouri.
