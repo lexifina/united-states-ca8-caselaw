@@ -1,0 +1,39 @@
+---
+court: "United States Court of Appeals for the Eighth Circuit"
+docket: "99-3707"
+decided: "2001-05-11"
+citations: ["9 F. App'x 570"]
+judges: ["Before HANSEN, MORRIS SHEPPARD ARNOLD, and BYE, Circuit Judges."]
+parties: ["Eliot BROWN, Appellant, v. Larry G. MASSANARI, Acting Commissioner of Social Security Administration, Appellee."]
+source_url: "https://static.case.law/f-appx/9/cases/0570-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 143550
+cites_cases: ["122 F.3d 1148", "20 C.F.R. §§ 404.1535", "205 F.3d 1056", "218 F.3d 901", "47 F.3d 951"]
+---
+
+# Brown v. Massanari
+
+## Head matter
+
+Eliot BROWN, Appellant, v. Larry G. MASSANARI, Acting Commissioner of Social Security Administration, Appellee.
+No. 99-3707.
+United States Court of Appeals, Eighth Circuit.
+Submitted March 7, 2001.
+Decided May 11, 2001.
+Before HANSEN, MORRIS SHEPPARD ARNOLD, and BYE, Circuit Judges.
+. Larry G. Massanari has been appointed to serve as Acting Commissioner of Social Security, and is substituted as appellee pursuant to Federal Rule of Appellate Procedure 43(c)(2).
+
+## Majority (PER CURIAM.)
+
+[UNPUBLISHED]
+PER CURIAM.
+Eliot Brown applied for disability insurance benefits and supplemental security income in August and October 1995, alleging he had been disabled since May 1995 due to a head injury in 1987, seizures, anxiety attacks, and severe depression. At a hearing before an administrative law judge (ALJ), Brown testified that he had previously worked as a sacker, fry cook, rate clerk, and sales clerk; he was terminated from these positions, each of which he held for four months or less.
+Following his head injury at the age of twelve, Brown underwent a series of hospitalizations, requiring intensive rehabilitation procedures, and treatment for seizures and psychiatric problems. Between 1987 and 1989, Brown’s diagnoses included post-traumatic seizures, mood disorder, major depression, passive-aggressive personality disorder, and conduct disorder. Brown’s medical records document frequent emergency room visits, hospital admissions, and outpatient treatment between 1994 and 1996. His diagnoses during this period included seizure disorder, alcohol abuse, alcohol intoxication, malingering false-seizure activity, anxiety disorder, addiction-personality disorder, alcohol withdrawal, and depression.
+In a July 1997 decision, the ALJ concluded the medical evidence established that Brown had an organic mental disorder with seizure activity, which met the requirements of Listing 12.02, see 20 C.F.R. Pt. 404, Subpt. P, App. 1, § 12.02 (2000), but only because of his substance addiction disorder. After noting numerous references in medical records to Brown’s severe alcohol problem and its effects on his seizures, the ALJ specifically discounted the opinion of neuropsychologist Dale A. Halfaker, Ph.D., who had concluded that (1) Brown possessed a seizure disorder associated with his brain injury, a disorder that was exacerbated, but not solely caused, by his alcohol use; and (2) he additionally suffered from dementia and personality change due to head trauma, major depressive disorder, alcohol abuse in early partial remission, and a personality disorder with passive-aggressive features. The ALJ determined that, but for his substance addiction disorder, Brown retained the residual functional capacity to perform his past relevant work. In an attached psychiatric review technique form, the ALJ indicated the record evidence showed that Brown exhibited organic, affective, personality, and substance-addiction disorders.
+In declining Brown’s request for review, the Appeals Council considered additional medical records, including a September 1997 report by Chi-Wan Lai, M.D., in which Dr. Lai opined that Brown suffered from medically intractable seizures, and that he did not believe Brown’s type of seizure activity could be due to alcohol alone. The district court affirmed the denial of benefits.
+Brown appeals, arguing the ALJ erred in finding his alcohol use was material to his disabling impairment, and in not considering the effect of Brown’s mental limitations on his residual functional capacity to perform his past relevant work. Subsequent to filing this appeal, Brown also moved for remand to the Commissioner on the basis of new material evidence, developed in December 1999, consisting, inter alia, of a letter written by Lizbeth D. Craven, M.D., stating that Brown suffered from uncontrolled seizures, with an onset date of October 28, 1987. Dr. Craven opined that Brown’s seizures, although exacerbated by alcohol, were caused by his closed head trauma. Brown contends that this new evidence was unavailable until he was granted Medicaid benefits on September 7, 1999, and that it is material because there is a reasonable likelihood that it would have changed the Commissioner’s determination.
+When the Appeals Council has considered new and material evidence and has declined review, we must decide whether the ALJ’s decision is supported by substantial evidence on the record as a whole, including the new evidence. See Mackey v. Shalala, 47 F.3d 951, 953 (8th Cir.1995).
+If an ALJ finds that a claimant is disabled, and the ALJ has medical evidence of the claimant’s substance addiction, he must determine whether the addiction is a contributing factor material to the determination of disability. See Rehder v. Apfel, 205 F.3d 1056, 1059-60 (8th Cir. 2000). A “key factor” in determining whether substance addiction is material is whether the claimant still would be found disabled if he stopped using the substance. See 20 C.F.R. §§ 404.1535(b)(1), 416.935(b)(1) (2000). To make this finding, the ALJ first must determine which of the claimant’s limitations would remain if he refrained from drug or alcohol use, and then he must determine whether these remaining limitations would be disabling. See Rehder, 205 F.3d at 1060.
+We conclude that the ALJ failed properly to determine what physical and mental limitations would remain if Brown were not using alcohol. Although he referred to the substantial evidence of Brown’s alcohol abuse, the ALJ pointed to no medical opinion supporting his determination that Brown was capable of performing his past relevant work as long as his addiction disorder was controlled. See Pettit v. Apfel, 218 F.3d 901, 903-04 (8th Cir.2000) (ALJ’s factual findings, which failed to examine degree to which claimant’s depression would exist absent his drinking or to address whether depression was controllable with medication, were insufficient for review). Record evidence suggests that Brown’s alcohol abuse may exacerbate — or even trigger — his seizure disorder, however, the assessments of Drs. Halfaker and Lai suggest that the disorder exists independently of alcohol abuse. Moreover, the record contains evidence that Brown had a mental disorder prior to his alcohol abuse, and the ALJ’s own psychiatric review technique form indicates that Brown had affective and personality disorders of listing-level severity, yet the ALJ’s decision states only that Brown’s organic mental disorder meets the listing because of his substance addiction disorder.
+Furthermore, Dr. Craven’s statement, developed after the Appeals Council’s denial of review, arguably relates to Brown’s condition for the relevant period, and could provide a sufficient basis to determine that Brown still would be found disabled if he stopped drinking. See Jones v. Callahan, 122 F.3d 1148, 1154 (8th Cir.1997).
+Accordingly, in light of this new evidence, and our conclusion that the ALJ failed to determine which of Brown’s limitations would remain if he refrained from alcohol use, we reverse the judgment of the district court and remand with instructions for the district court to remand to the Commissioner for further fact-finding.
